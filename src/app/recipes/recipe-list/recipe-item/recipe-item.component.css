@@ -1,0 +1,8 @@
+ /* a.active { background-color: #bc5f21 } */
+
+  a.active,
+ a.active:hover,
+ a.active:focus,
+ a.active:active {
+  background-color: black;
+}
